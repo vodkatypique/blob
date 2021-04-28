@@ -1,0 +1,46 @@
+Rouge MinMax-1 vs MinMax : -1 : Blue
+Rouge MinMax-1 vs MinMax : -1 : Red
+Rouge MinMax-1 vs MinMax : -1 : Red
+Rouge MinMax-1 vs MinMax : -1 : Red
+
+Rouge MinMax-1 vs MinMax : -2 : Blue
+Rouge MinMax-1 vs MinMax : -2 : Blue
+Rouge MinMax-1 vs MinMax : -2 : Blue
+Rouge MinMax-1 vs MinMax : -2 : Blue
+
+Rouge MinMax-1 vs MinMax : -3 : Blue
+Rouge MinMax-1 vs MinMax : -3 : Blue
+Rouge MinMax-1 vs MinMax : -3 : Blue
+Rouge MinMax-1 vs MinMax : -3 : Blue
+
+
+Rouge MinMax-2 vs MinMax : -1 : Red
+Rouge MinMax-2 vs MinMax : -1 : Red
+Rouge MinMax-2 vs MinMax : -1 : Red
+Rouge MinMax-2 vs MinMax : -1 : Red
+
+Rouge MinMax-2 vs MinMax : -2 : Red
+Rouge MinMax-2 vs MinMax : -2 : Blue
+Rouge MinMax-2 vs MinMax : -2 : Red
+Rouge MinMax-2 vs MinMax : -2 : Red
+
+Rouge MinMax-2 vs MinMax : -3 : Blue
+Rouge MinMax-2 vs MinMax : -3 : Blue
+Rouge MinMax-2 vs MinMax : -3 : Blue
+Rouge MinMax-2 vs MinMax : -3 : Blue
+
+
+Rouge MinMax-3 vs MinMax : -1 : Red
+Rouge MinMax-3 vs MinMax : -1 : Red
+Rouge MinMax-3 vs MinMax : -1 : Red
+Rouge MinMax-3 vs MinMax : -1 : Red
+
+Rouge MinMax-3 vs MinMax : -2 : Draw
+Rouge MinMax-3 vs MinMax : -2 : Red
+Rouge MinMax-3 vs MinMax : -2 : Blue
+Rouge MinMax-3 vs MinMax : -2 : Draw
+
+Rouge MinMax-3 vs MinMax : -3 : Blue
+Rouge MinMax-3 vs MinMax : -3 : Draw
+Rouge MinMax-3 vs MinMax : -3 : Blue
+Rouge MinMax-3 vs MinMax : -3 : Blue

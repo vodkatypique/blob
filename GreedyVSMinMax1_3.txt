@@ -1,0 +1,32 @@
+Rouge Greedy vs MinMax : -1 : Red
+Rouge Greedy vs MinMax : -1 : Red
+Rouge Greedy vs MinMax : -1 : Red
+Rouge Greedy vs MinMax : -1 : Blue
+Rouge Greedy vs MinMax : -1 : Draw
+Rouge Greedy vs MinMax : -1 : Blue
+Rouge Greedy vs MinMax : -1 : Red
+Rouge Greedy vs MinMax : -1 : Red
+Rouge Greedy vs MinMax : -1 : Blue
+Rouge Greedy vs MinMax : -1 : Blue
+
+Rouge Greedy vs MinMax : -2 : Blue
+Rouge Greedy vs MinMax : -2 : Blue
+Rouge Greedy vs MinMax : -2 : Blue
+Rouge Greedy vs MinMax : -2 : Blue
+Rouge Greedy vs MinMax : -2 : Blue
+Rouge Greedy vs MinMax : -2 : Blue
+Rouge Greedy vs MinMax : -2 : Red
+Rouge Greedy vs MinMax : -2 : Red
+Rouge Greedy vs MinMax : -2 : Blue
+Rouge Greedy vs MinMax : -2 : Blue
+
+Rouge Greedy vs MinMax : -3 : Blue
+Rouge Greedy vs MinMax : -3 : Blue
+Rouge Greedy vs MinMax : -3 : Blue
+Rouge Greedy vs MinMax : -3 : Blue
+Rouge Greedy vs MinMax : -3 : Blue
+Rouge Greedy vs MinMax : -3 : Blue
+Rouge Greedy vs MinMax : -3 : Blue
+Rouge Greedy vs MinMax : -3 : Blue
+Rouge Greedy vs MinMax : -3 : Blue
+Rouge Greedy vs MinMax : -3 : Blue
