@@ -1,5 +1,0 @@
-Rouge AlphaBeta-5 vs AlphaBeta : -5 : Blue
-Rouge AlphaBeta-5 vs AlphaBeta : -5 : Blue
-Rouge AlphaBeta-5 vs AlphaBeta : -5 : Blue
-Rouge AlphaBeta-5 vs AlphaBeta : -5 : Blue
-Rouge AlphaBeta-5 vs AlphaBeta : -5 : Blue

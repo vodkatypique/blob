@@ -1,6 +1,0 @@
-Rouge AlphaBetaMemo-3 vs MinMax : -2 : Red
-Rouge AlphaBetaMemo-3 vs MinMax : -2 : Red
-Rouge AlphaBetaMemo-3 vs MinMax : -2 : Red
-Rouge AlphaBetaMemo-3 vs MinMax : -2 : Red
-Rouge AlphaBetaMemo-3 vs MinMax : -2 : Red
-Rouge AlphaBetaMemo-4 vs MinMax : -2 : Red

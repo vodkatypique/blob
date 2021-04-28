@@ -26,8 +26,11 @@ impl Strategy for Greedy {
                 if score_opt < score {
                     print!("Greedy : scoreAct={}, scoreNouv={}\n", score_opt, score);
                     score_opt = score; 
+                    list_move_opt = Vec::new();
                     list_move_opt.push(mouvement);
-                } 
+                }if score_opt == score {
+                    list_move_opt.push(mouvement);
+                }
             }
             let randIndex = rand::thread_rng().gen_range(0..list_move_opt.len());
             Some(list_move_opt[randIndex])
